@@ -157,7 +157,7 @@
 							<th width="5%" class="text">Edit</th>
 						</tr>
 					</thead>
-					<%
+					<%  
 						while (it.hasNext()) {
 								dto = it.next();
 

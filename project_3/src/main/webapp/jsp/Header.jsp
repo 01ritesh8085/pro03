@@ -9,7 +9,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
 <title>Header</title>
 <link rel="stylesheet"
 	href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
@@ -335,6 +335,7 @@
 							Profile</a> <a class="dropdown-item"
 							href="<%=ORSView.CHANGE_PASSWORD_CTL%>"> <i
 							class="fas fa-edit"></i>Change Password
+							
 						</a> <a class="dropdown-item" target="blank"
 							href="<%=ORSView.JAVA_DOC_VIEW%>"> <i class="fas fa-clone"></i>Java
 							Doc

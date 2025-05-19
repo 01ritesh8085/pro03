@@ -12,7 +12,7 @@ import java.util.ResourceBundle;
 public final class ModelFactory {
 
 	// MAKE DEFAULT CONSTRUCTOR PRIVATE SO THAT NO ONE OTHER CLASS CAN INSTANTIATE
-	// THE SINGLETON CLASS
+	// THE SINGLETON CLASSo
 	private ModelFactory() {
 
 	}
@@ -28,7 +28,7 @@ public final class ModelFactory {
 
 			modelFactory = new ModelFactory();
 		}
-
+  
 		return modelFactory;
 	}
 
@@ -51,7 +51,7 @@ public final class ModelFactory {
 				userModel = new UserModelJDBCImpl();
 			}
 
-		}
+		}  
 
 		return userModel;
 	}

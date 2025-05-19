@@ -22,7 +22,7 @@ public class HibDataSource {
 		return sessionFactory ;
 	}
 
-	public static Session getSession() {
+	public static Session getSession() { 
 
 		Session session = getSessionFactory().openSession();
 
