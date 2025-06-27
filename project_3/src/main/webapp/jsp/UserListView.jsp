@@ -67,7 +67,7 @@
 			%>
 			<center>
 				<h1 class="text-white font-weight-bold pt-3">
-					<b>User List11</b>
+					<b>User List</b>
 				</h1>
 			</center>
 			<br>
